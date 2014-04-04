@@ -1,4 +1,7 @@
-0.4 
+0.4  2014-04-04
+  * left some messy files behind
+  * adding in git modules for Dist::Zilla
+  * adding to github https://github.com/27escape/Net-Graylog-Client
 0.3 2014-04-04
   * Tidy up some pod
   * use App::Basis::Config to hold targets
